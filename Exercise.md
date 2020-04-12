@@ -56,3 +56,4 @@ d. Roll back to the last commit ever made
 e. Status of the repository
 
     
+    
