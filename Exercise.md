@@ -24,7 +24,7 @@ Working of git:
 7. To get the status of currect repository we use **git status**
 8. When you type **git status** at this point of time after adding all those files and folders you get 
     *On branch master
-     Changes to be committed:
+     Changes to be committed: 
     (use "git restore --staged <file>..." to unstage)
         new file:   second repo/test.html*
 9. We need to commit files (here we are commiting all the files at once which creates single log id for this commit. You can add files 
