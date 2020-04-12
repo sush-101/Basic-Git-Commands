@@ -10,7 +10,7 @@ Working of git:
    i. Open cmd. Navigate to this folder. Type **git init**.(initialization of this folder as repo)
 3. Once made this as a repository (master).. 
 4. Add files to this "FirstRepo" and folders with files
-5. Type **gti status** 
+5. Type **git status** 
   you get *On branch master
   Untracked files:
   (use "git add <file>..." to include in what will be committed)
