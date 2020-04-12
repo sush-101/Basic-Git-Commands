@@ -41,13 +41,13 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")*
 14. Type **git add .** to stage
-15. To commit **git commit -m "message" **
+15. To commit **git commit -m message **
 16. This creates new log id(or log ids if changes are made at once)
 17. To roll back to a particular commit **git checkout logid filename **
 18. This automatically stages and you need to commit once you work with this.
 19. Now if you want to reset this (discard this version) and roll back to last version before this you were dealing , you need to first
     unstage this .
-20. To do so **git reset HEAD <file name>**
+20. To do so **git reset HEAD filename**
 21. As now this is unstaged, you can go to the last commit you have made on this file **git checkout -- filename **
 Conclusion: 
 a. Learnt how to make a repository
