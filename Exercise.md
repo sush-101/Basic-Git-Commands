@@ -2,7 +2,7 @@ Install the git in your computer . Url : git-scm.com
 
 To check whether git is installed or not :
 1.Open command prompt / terminal
-2. Type git
+2. Type **git**
 
 Working of git:
 1.Create a folder named "FirstRepo"(any name) at a location which you would make it as a repository 
@@ -27,7 +27,8 @@ Working of git:
      Changes to be committed: 
     (use "git restore --staged <file>..." to unstage)
         new file:   second repo/test.html*
-9. We need to commit files (here we are commiting all the files at once which creates single log id for this commit. You can add files 
+9. We need to commit files (here we are commiting all the files at once which creates single log id for this commit.
+   You can add files 
    one by one and then commit which gives then separate log ids)
 10. To commit **git commit -m "message"
 11. Make changes to a file(or any number of files)
