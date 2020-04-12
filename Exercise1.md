@@ -2,7 +2,7 @@ Install the git in your computer . Url : git-scm.com
 
 To check whether git is installed or not :
 1.Open command prompt / terminal
-2. Type git
+2. Type **git**
 
 Working of git:
 1.Create a folder named "FirstRepo"(any name) at a location which you would make it as a repository 
