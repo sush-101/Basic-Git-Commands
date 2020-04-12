@@ -30,7 +30,7 @@ Working of git:
 9. We need to commit files (here we are commiting all the files at once which creates single log id for this commit.
    You can add files 
    one by one and then commit which gives then separate log ids)
-10. To commit **git commit -m "message"
+10. To commit **git commit -m <message>**
 11. Make changes to a file(or any number of files)
 12. Types **git status**
 13. You get *On branch master
@@ -43,12 +43,12 @@ no changes added to commit (use "git add" and/or "git commit -a")*
 14. Type **git add .** to stage
 15. To commit **git commit -m "message" **
 16. This creates new log id(or log ids if changes are made at once)
-17. To roll back to a particular commit **git checkout <log id> <filename>**
+17. To roll back to a particular commit **git checkout logid filename **
 18. This automatically stages and you need to commit once you work with this.
 19. Now if you want to reset this (discard this version) and roll back to last version before this you were dealing , you need to first
     unstage this .
 20. To do so **git reset HEAD <file name>**
-21. As now this is unstaged, you can go to the last commit you have made on this file **git checkout -- <filename>**
+21. As now this is unstaged, you can go to the last commit you have made on this file **git checkout -- filename **
 Conclusion: 
 a. Learnt how to make a repository
 b. Commit files
