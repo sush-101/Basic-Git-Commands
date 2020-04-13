@@ -1,4 +1,5 @@
-Install the git in your computer . Url : git-scm.com
+**Visual studio code supports git, code writer does not.
+Install the git in your computer . Url : git-scm.com**
 
 To check whether git is installed or not :                                                                                              
 1.Open command prompt / terminal                                                                                                  
