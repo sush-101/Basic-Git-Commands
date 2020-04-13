@@ -47,7 +47,10 @@ no changes added to commit (use "git add" and/or "git commit -a")*
 19. Now if you want to reset this (discard this version) and roll back to last version before this you were dealing , you need to first
     unstage this .                                                                                                                       
 20. To do so **git reset HEAD filename**                                                                                                 
-21. As now this is unstaged, you can go to the last commit you have made on this file **git checkout -- filename **                     
+21. As now this is unstaged, you can go to the last commit you have made on this file **git checkout -- filename **   
+22.  TO delete a local repo with sub folders **rmdir /s .git**                                                                     
+23. TO delete a local repo **rmdir .git**                                                                                              
+
 Conclusion:                                                                                                                             
 a. Learnt how to make a repository                                                                                                      
 b. Commit files                                                                                                                         
