@@ -1,5 +1,5 @@
 Outcomes :                                                                                                                             
-1. Add package.json to the project folder . package.json contains configuration of the project.                                                                    
+ Add package.json to the project folder . package.json contains configuration of the project.                                              1. We need to configure the dependencies and info into the package.json                     
 2. To do so type command **npm init** after navigating to the folder in cmd.                                                              
 3. You will get series of queries, entry point is the starting page of the web page or app.                                                              
 4. We add lite server , to do so type **npm install lite-server --save -dev** . To save this info into package.json                               
