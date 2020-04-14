@@ -17,7 +17,7 @@ Pushing your commits to the online repository
 At the prompt, type the following to push the commits to the online repository:                                                         
 **git push** -u **origin master**                                                                                                       
 Cloning an online repository                                                                                                             
-To clone an online repository to your computer, type the following at the prompt: *git clone repourl*                                                   
+To clone an online repository to your computer, type the following at the prompt: **git clone repourl**                                                   
                                                                                                            
 Conclusions                                                                                                                             
 In this exercise you have learnt to set up an online Git repository, synchronize your local repository with the remote repository, and clone an online repository.
